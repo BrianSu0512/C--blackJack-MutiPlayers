@@ -1,0 +1,15 @@
+/Users/brian/C#/blackJack-MutiPlayers/bin/Debug/net7.0/blackJack-MutiPlayers
+/Users/brian/C#/blackJack-MutiPlayers/bin/Debug/net7.0/blackJack-MutiPlayers.deps.json
+/Users/brian/C#/blackJack-MutiPlayers/bin/Debug/net7.0/blackJack-MutiPlayers.runtimeconfig.json
+/Users/brian/C#/blackJack-MutiPlayers/bin/Debug/net7.0/blackJack-MutiPlayers.dll
+/Users/brian/C#/blackJack-MutiPlayers/bin/Debug/net7.0/blackJack-MutiPlayers.pdb
+/Users/brian/C#/blackJack-MutiPlayers/obj/Debug/net7.0/blackJack-MutiPlayers.csproj.AssemblyReference.cache
+/Users/brian/C#/blackJack-MutiPlayers/obj/Debug/net7.0/blackJack-MutiPlayers.GeneratedMSBuildEditorConfig.editorconfig
+/Users/brian/C#/blackJack-MutiPlayers/obj/Debug/net7.0/blackJack-MutiPlayers.AssemblyInfoInputs.cache
+/Users/brian/C#/blackJack-MutiPlayers/obj/Debug/net7.0/blackJack-MutiPlayers.AssemblyInfo.cs
+/Users/brian/C#/blackJack-MutiPlayers/obj/Debug/net7.0/blackJack-MutiPlayers.csproj.CoreCompileInputs.cache
+/Users/brian/C#/blackJack-MutiPlayers/obj/Debug/net7.0/blackJack-MutiPlayers.dll
+/Users/brian/C#/blackJack-MutiPlayers/obj/Debug/net7.0/refint/blackJack-MutiPlayers.dll
+/Users/brian/C#/blackJack-MutiPlayers/obj/Debug/net7.0/blackJack-MutiPlayers.pdb
+/Users/brian/C#/blackJack-MutiPlayers/obj/Debug/net7.0/blackJack-MutiPlayers.genruntimeconfig.cache
+/Users/brian/C#/blackJack-MutiPlayers/obj/Debug/net7.0/ref/blackJack-MutiPlayers.dll
